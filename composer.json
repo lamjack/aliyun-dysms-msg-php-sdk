@@ -1,5 +1,5 @@
 {
-    "name": "jacklam/aliyun-dysms-msg-php-sdk",
+    "name": "jacklam/aliyun-dysms-sdk",
     "description": "Aliyun SMS message SDK for PHP",
     "keywords": ["aliyun", "SMS", "sdk"],
     "type": "library",
